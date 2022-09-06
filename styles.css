@@ -1,0 +1,19 @@
+.pozicija {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 896px;
+    align-items: center;
+    justify-content: center;
+}
+.grid {
+    height: 50px;
+    width: 50px;
+    background-color: lightgray;
+    border: 2px solid gold;
+}
